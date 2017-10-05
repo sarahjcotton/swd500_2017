@@ -11,7 +11,7 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 
 
 
-##Week 2 - Semantic HTML and Collaboration on gitHUB
+## Week 2 - Semantic HTML and Collaboration on gitHUB
 
 By the end of this week you should:
 
