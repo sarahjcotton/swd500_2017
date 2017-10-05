@@ -73,12 +73,6 @@ Please complete the [gitHub teamwork task](task.md)
 
 
 
-
-
-
-
-
-
 ##Further Reading and Exercises 
 [A very good guide](http://rogerdudler.github.io/git-guide/)   
 [GitHub remotes](https://help.github.com/categories/managing-remotes/)  
