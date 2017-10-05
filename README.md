@@ -1,15 +1,24 @@
 # SWD500 GITHUB Repository 
 >> [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0)
 
+# Assignment and Introductory Session
+
+Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0). 
+
+[In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md). 
 
 
-## Week 2 - Semantic HTML and Collaboration on gitHUB
+
+
+
+##Week 2 - Semantic HTML and Collaboration on gitHUB
 
 By the end of this week you should:
 
 - You should understand the advantages of a more semantically descriptive version of HTML 
 - Be able to layout a non trivial web page using semantic HTML
-- Understand 	how to collaborate on a coding project using git and gitHUB
+- Understand how to collaborate on a coding project using git and gitHUB
+
 
 **Session 1**
 
@@ -32,6 +41,7 @@ By the end of this week you should:
 **Session 1**
 
 -  [Notes - HTML & CSS review](sessions/session1.0/README.md) 
+-  [Notes - Assignment ]
 
 **Session 2**
 
