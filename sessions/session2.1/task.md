@@ -1,4 +1,4 @@
-# GitHUb team Collaboration 
+# GitHub team Collaboration 
 
 The goal of this task is to collaborate to create a website on a topic that interest. 
 
