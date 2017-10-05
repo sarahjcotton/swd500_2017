@@ -1,4 +1,4 @@
-#GitHUb team Collaboration 
+# GitHUb team Collaboration 
 
 The goal of this task is to collaborate to create a website on a topic that interest. 
 
@@ -11,26 +11,25 @@ The goal of this task is to collaborate to create a website on a topic that inte
 
 
 
-
-#Some helpful quick git commands
+# Some helpful quick git commands
 
 Below are some useful commands that I use all the time:
 
 
-###Help! I've badly messed up since the last commit 
+### Help! I've badly messed up since the last commit 
 
 `git reset --hard`   
 
 Resets your work to the last commit 
 
-###I've committed but now made a small change that should have been part of the last commit
+### I've committed but now made a small change that should have been part of the last commit
 
 `git add -A`  
 `git commit --amend` 
 
 Adds any files to the old commit 
  
-###Help! my local version is out of sync with the remote
+### Help! my local version is out of sync with the remote
 
 If this happens are you are working on your own project. Simply forcefully override your GitHub repo with your local version.
 
