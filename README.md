@@ -8,10 +8,7 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 [In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md). 
 
 
-
-
-
-## Week 2 - Semantic HTML and Collaboration on gitHUB
+## Week 2 - Semantic HTML and Collaboration on GITHUB
 
 By the end of this week you should:
 
@@ -26,7 +23,7 @@ By the end of this week you should:
 
 **Session 2**
 
--  (to be released)
+-  [Notes - Branching and Teamwork](sessions/session2.1/README.md)
 
 
 ## Week 1 - Introduction To The Unit & Responsive Design
@@ -41,7 +38,6 @@ By the end of this week you should:
 **Session 1**
 
 -  [Notes - HTML & CSS review](sessions/session1.0/README.md) 
--  [Notes - Assignment ]
 
 **Session 2**
 
