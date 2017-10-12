@@ -8,6 +8,23 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 [In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md). 
 
 
+## Week 3  - Fluid Grids
+
+By the end of this week you should:
+
+- Be able to construct a grid in HTML and CSS
+- Utilise the power of media queries, make your grid responsive
+
+**Session 1**
+
+-  [Notes - HTML and CSS3](sessions/session3.0/README.md) 
+
+**Session 2**
+
+-  Complete your fluid grid 
+-  Research and set up style guides (html, css, javaScript) for your assignment 
+
+
 ## Week 2 - Semantic HTML and Collaboration on GITHUB
 
 By the end of this week you should:

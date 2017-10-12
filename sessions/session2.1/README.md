@@ -69,7 +69,7 @@ Next, all of the team should clone the remote repo to their local workspace. Usi
 
 ## Practical 
 
-Please complete the [gitHub teamwork task](task.md) 
+Please complete the [GitHub teamwork task](task.md) 
 
 
 

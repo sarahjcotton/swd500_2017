@@ -2,8 +2,8 @@
 
 The goal of this task is to collaborate to create a website on a topic that interest. 
 
-
 1. Split up into teams of 3 or 4 
+2. Make sure you all set your user name on your local version of git. From command line type `git config --global user.name "your name"`
 2. Decide on what type of website you want to create. 
 3. Delegate work, each team member should be responsible for a specific part of the website. 
 4. One member of the team should set up a repository. You should then follow the steps in the [notes](README.md) in order to collaborate and create the website. 
