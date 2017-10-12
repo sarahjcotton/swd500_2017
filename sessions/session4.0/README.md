@@ -75,7 +75,7 @@ body {
     }
 ```
 
-## Some common CSS media query tricks
+##Some common CSS media query tricks
 
 ![](assets/mobile_desktop.jpg)
 
@@ -142,6 +142,11 @@ Below is our initial layout, you can see we've used a 12 column grid:
 
 ```
 
+
+
+
+
+
 - Since we've used a grid, easily make our layout flexible
 
 - The first thing we need to do is hide the top menu. We can achieve this by using the css `display:none` property:
@@ -206,7 +211,7 @@ Below is our initial layout, you can see we've used a 12 column grid:
 
 	
 		
-# Mobile first vs desktop first 
+#Mobile first vs desktop first 
 
 - Historically the most common approach to designing websites was to build the desktop version of the site first, then focus on making it mobile compatible. The type of approach is know as **desktop first**. This was fine as the majority users were accessing websites using desktop browsers. 
 
@@ -217,15 +222,14 @@ Below is our initial layout, you can see we've used a 12 column grid:
 
 
 
-## Mobile First 
+- When working using a mobile first approach, it's common to flip media queries from `max-width` to `min-width`
+- **Note,** we still have a `max-width` for the smallest of devices, this should be the view that we focus on first
 
-Typically when working with a mobile first strategy we flip our break-points from `max-width` to `min-width`.   
 
 
-```html 
-
-    /* Extra Small Devices, Phones */ 
-    @media (min-width : 480px) {
+```
+ /* Extra Small Devices, Phones */ 
+    @media (max-width : 480px) {
 
     }
 
@@ -243,7 +247,16 @@ Typically when working with a mobile first strategy we flip our break-points fro
     @media (min-width : 1200px) {
 
     }
+
+
 ```
+
+# Practical 
+
+[Creating a Responsive Grid](task.md)
+
+
+
 
 
 # Resources 

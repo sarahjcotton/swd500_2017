@@ -8,12 +8,23 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 [In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md). 
 
 
+## Week 4  Fluid Grids Continued 
+
+By the end of this week you should:
+
+- Be able to demonstrate your responsive grid
+
+**Session 1**
+
+- [Notes - Creating a responsive grid](sessions/session4.0/README) 
+
+
 ## Week 3  - Fluid Grids
 
 By the end of this week you should:
 
 - Be able to construct a grid in HTML and CSS
-- Utilise the power of media queries, make your grid responsive
+
 
 **Session 1**
 
@@ -23,6 +34,7 @@ By the end of this week you should:
 
 -  Complete your fluid grid 
 -  Research and set up style guides (html, css, javaScript) for your assignment 
+-  Set up a empty git repository 
 
 
 ## Week 2 - Semantic HTML and Collaboration on GITHUB
