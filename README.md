@@ -13,10 +13,15 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 By the end of this week you should:
 
 - Be able to demonstrate your responsive grid
+- Implement responsive imagages
 
 **Session 1**
 
-- [Notes - Creating a responsive grid](sessions/session4.0/README) 
+- [Notes - Creating a responsive grid](sessions/session4.0/README.md) 
+
+**Session 2**
+
+- [Notes - Reponsive Images and Typography](sessions/session5.0/README.md) 
 
 
 ## Week 3  - Fluid Grids
