@@ -21,7 +21,7 @@ By the end of this week you should:
 
 **Session 2**
 
-- [Notes - Reponsive Images and Typography](sessions/session5.0/README.md) 
+- [Notes - Reponsive Images and Typography](sessions/session4.1/README.md) 
 
 
 ## Week 3  - Fluid Grids
