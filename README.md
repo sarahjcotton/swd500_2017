@@ -1,6 +1,10 @@
 # SWD500 GITHUB Repository 
 >> [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0)
 
+# 16 col grid example 
+[https://codepen.io/joeappleton18/pen/VKqdbX?editors=1100](https://codepen.io/joeappleton18/pen/VKqdbX?editors=1100)
+
+
 # Assignment and Introductory Session
 
 Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0). 
