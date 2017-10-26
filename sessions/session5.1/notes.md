@@ -100,7 +100,7 @@ mkdir css  sass  sass/abstract sass/base sass/components sass/layout sass/pages
 >> Where `scss/main.scss` the path to our main.scss file and `css/main.css`. The `--watch` flag ensures instructs SASS to continually run in the background
  
 
-##Using SASS
+## Using SASS
 
 Every HTML file in your project should include the `main.css` file:
 
@@ -109,7 +109,7 @@ Every HTML file in your project should include the `main.css` file:
 This will be the only CSS file you need to include, ever again! **NOTE** you should never edit it.
 
 
-###Imports 
+### Imports 
 
 - Using the above SASS style guide,  main.sccs acts as the glue for all of our partials file. We can use SASS imports to pull these files in  	
 
@@ -124,7 +124,7 @@ This will be the only CSS file you need to include, ever again! **NOTE** you sho
 - If all has worked correctly the contents of `normalise.scss` should have been pulled into `main.css`
 
 
-###Variables
+### Variables
 
 - SASS allows us to use variables. Much like in programming they allow us to store common values. Given our above structure global level variables should be stored in:
 
@@ -145,8 +145,8 @@ This will be the only CSS file you need to include, ever again! **NOTE** you sho
 - These name value parings can be represented in sass
 
 ```
-$iguana_green: #79B473
-$shiny_shamrock: #70A37F
+$iguana_green: #79B473;
+$shiny_shamrock: #70A37F;
 ```
 - We can now use these variables anywhere in any other SASS file
 
@@ -186,7 +186,7 @@ body {
 
 
 
-###Nesting 
+### Nesting 
 
 - SASS let you nest CSS in a hierarchy, this allows the creation easily identifiable reusable components
 
@@ -217,9 +217,9 @@ header{
 ```
 
 
-###Pseudo Classes 
+### Pseudo Classes 
 
-####We can also nest pseudo classes, like this:
+#### We can also nest pseudo classes, like this:
 
 ```
 a {		color:$light_green; 
@@ -230,7 +230,7 @@ a {		color:$light_green;
 
 ```
 
-####Extending  
+#### Extending  
 
 - Using `@extends` allows you to easily share css properties from other selectors
 
