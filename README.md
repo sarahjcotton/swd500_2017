@@ -1,14 +1,9 @@
 # SWD500 GITHUB Repository 
 >> [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0)
 
-# Assignment and Introductory Session
-
-Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0). 
-
-[In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md). 
 
 
-## Week 4  Fluid Grids Continued 
+## Week 4 - Fluid Grids Continued 
 
 By the end of this week you should:
 
@@ -78,11 +73,16 @@ By the end of this week you should:
 - [Notes - Introduction to responsive design](sessions/session1.1/README.md) 
 
 
-
-
 # Assessments 
 
 **Assignments will be released on the course sol page**
+
+
+## Assignment 1 Introductory Session
+
+Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0). 
+
+[In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md). 
 
 
 
