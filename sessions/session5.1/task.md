@@ -1,5 +1,5 @@
  
-#Practical - Converting some legacy css into scss
+# Practical - Converting some legacy css into scss
 
  -  Download the following zip file from [here](https://github.com/joeappleton18/swd500/raw/master/live_course_git_hub/Sessions/session8.0/assets/scssPractical.zip) and save it on your u drive
 
