@@ -1,7 +1,7 @@
  
 # Practical - Converting some legacy css into scss
 
- -  Download the following zip file from [here](https://github.com/joeappleton18/swd500_2017/blob/master/sessions/session5.1/scssPractical.zip) and save it on your u drive
+ -  Download the following zip file from [here](https://github.com/joeappleton18/swd500_2017/raw/master/sessions/session5.1/scssPractical.zip) and save it on your u drive
 
 -  Notice how main.scss currently just has normal css in it. Sass is just an extension of css so this is fine. 
 
