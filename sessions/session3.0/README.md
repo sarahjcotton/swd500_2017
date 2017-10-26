@@ -1,4 +1,4 @@
-#Grids  
+# Grids  
 
 
 This week we are looking at fluid grids and how to construct them using HTML. The first stage, is to make a grid!
@@ -24,13 +24,13 @@ This week we are looking at fluid grids and how to construct them using HTML. Th
 
 
 
-##Designing a custom fluid grid   
+## Designing a custom fluid grid   
 
 - Fluid grids are based on the grid system of design  
 - You can generate a grid for photoshop using a tool like [Grid Calculator](http://gridcalculator.dk/#/960/16/20/20)   
 - You can then use this grid to create your mock ups
 
-##Creating a fluid grid in HTML 
+## Creating a fluid grid in HTML 
 
 - You'll need to experiment and create a fluid grid in HTML for you assessment
 
@@ -43,7 +43,7 @@ In this section we'll look at how to define css rules in order to create a custo
 ![](assets/grid.jpg)
 
 
-#####1) The wrapper 
+##### 1) The wrapper 
 
 This is very much like the wrapper div you may have used for making HTML pages so far. 
 
@@ -63,7 +63,7 @@ This is very much like the wrapper div you may have used for making HTML pages s
 >> [codepen example](https://codepen.io/joeappleton18/pen/RGBXQE)
 
 
-#####2) The total number of columns
+##### 2) The total number of columns
 
 
 ```css
@@ -75,7 +75,7 @@ This is very much like the wrapper div you may have used for making HTML pages s
 - I've chosen 16 columns for my grid, however you can make your grid smaller or larger. It's considered good practice to make the grid a multiple of 3 and a minimum size of 6 columns. 
 
 
-####3) A single grid column   
+#### 3) A single grid column   
 ```
 .col-1 {
   
@@ -96,7 +96,7 @@ since we know the width of a single column we can easily work out the width of a
  }
 ```
 
-###4) The gutters
+### 4) The gutters
 
 Gutters are the spacing between our grid columns.  You can use a pixel  padding value to achieve this:
 
@@ -127,7 +127,7 @@ Gutters are the spacing between our grid columns.  You can use a pixel  padding 
 ```
 
 
-####5) Defining a row 
+#### 5) Defining a row 
 
 In order make sure columns don't play nicely and don't overlap into other rows. We need to define a row class:
 
@@ -190,7 +190,7 @@ Your grid is just the scafolding for your website. For each new site you make yo
 
 **a code pen example of a part implemented [grid](https://codepen.io/joeappleton18/pen/WGgZXO)**
 
-#Pratical 
+# Practical 
 
 [Design Your Own Grid](task.md)
 

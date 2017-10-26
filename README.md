@@ -1,7 +1,36 @@
 # SWD500 GITHUB Repository 
 >> [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0)
 
+# 16 col grid example 
+[https://codepen.io/joeappleton18/pen/VKqdbX?editors=1100](https://codepen.io/joeappleton18/pen/VKqdbX?editors=1100)
 
+# Assignment and Introductory Session
+
+Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](https://learn.solent.ac.uk/course/view.php?id=26268&section=0). 
+
+[In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md).
+
+
+
+## Week 5 Catch up and introduction to SASS 
+
+By the end of this week you should:
+
+- Be able to demonstraight your responsive grid in action on a real website 
+- Be able to compile basic SCSS into HTML
+
+**Session 1**
+
+This session is a catch up, by the end of the session you should have
+
+- Completed your fluid grid 
+- Use the grid to lay out a non trival responsive website. Perhaps use my example as a starting point:
+[https://codepen.io/joeappleton18/pen/VKqdbX?editors=1100](https://codepen.io/joeappleton18/pen/VKqdbX?editors=1100)
+
+
+**Session 2**
+
+- [Notes - Introduction to SASS](sessions/session5.1/notes.md)
 
 ## Week 4 - Fluid Grids Continued 
 
