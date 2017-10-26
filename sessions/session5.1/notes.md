@@ -254,7 +254,7 @@ a {		color:$light_green;
 [Practical](task.md) 
 
 
-##Resources 
+## Resources 
 
 [Official SASS Guide](http://sass-lang.com/guide)
 
