@@ -38,7 +38,7 @@ $col_1_width : $max_width / $grid_cols;
 - Below is an example of a media query that I used to set up a responsive grid
 
 ```
-@media all and (max-width:650px){
+@media (min-width:650px){
     [class*='col-']{
         width: 100%;
    }
