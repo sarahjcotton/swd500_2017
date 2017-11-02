@@ -11,6 +11,25 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 [In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md).
 
 
+##Week 6 Continuing SASS
+
+By the end of this week you should:
+
+- Be able to compile basic SCSS into HTML
+- Be able to construct you grid CSS effectively in SASS
+
+**Session 1**
+
+
+[Complete the  SASS task from last week](https://github.com/joeappleton18/swd500_2017/blob/master/sessions/session5.1/task.md)
+
+**Session 2**
+
+[Advanced SASS](sessions/session6.2/README.md)
+
+
+
+
 
 ## Week 5 Catch up and introduction to SASS 
 
