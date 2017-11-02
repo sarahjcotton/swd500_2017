@@ -66,9 +66,9 @@ h3 {
 	
 	 {
 	
-		@media all and (max-width:650px) {
+		@media all and (min-width:650px) {
 		
-				text-align: centre;
+				 color:green;
 	
 	}
 
@@ -76,24 +76,22 @@ h3 {
 
 ```
 
-- We can tidy up media queries further by using variable 
+- We can tidy up media queries further by using variable
 
 
 ```
-$break_small: 650px;
+/*
+  This variable would be in our _varibles.scc folder
+*/
+$sm: 'min-width: 460px';
 
-h3 {
-	
-	 {
-	
-		@media all and ($break_small:650px) {
-		
-				text-align: centre;
-	
-	}
-
+h1 {
+    
+    @media ($sm) {
+       color:green;
+    }
+    
 }
-
 
 
 ```
