@@ -11,6 +11,20 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 [In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md).
 
 
+## Week 8 JavaScript Refresher 
+
+By the end of this week you should:
+
+- Understand the basic concepts of JavaScript 
+- Be able to manipulate HTML using JavaScript
+
+**Session 1**
+
+[JavaScript Refresher](sessions/session8.1/README.md)
+
+
+
+
 ## Week 7 Assignment Support Week
 
 This week we'll allow you to complete your assignments and ask for support. 
