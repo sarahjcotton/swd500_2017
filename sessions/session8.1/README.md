@@ -262,6 +262,6 @@ statement. In fact, you can have as many `else if` statements as you
 like
 
 
-#Practical 
+# Practical 
 
 [Creating A JavaScript guessing game](task.md)
