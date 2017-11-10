@@ -186,7 +186,7 @@ function sayHi() {
 	-  `document.querySelector('input[name="your_name"]')`. within the function we again use the query selector, this time targeting our input with the name `your_name`. 
 	-  Finally we use the query selector to set the inner html of a paragraph with a id of `#display_name` to our message
 
-#Conditional Statements 
+# Conditional Statements 
 
 In order to code decisions into our javaScript programs it's necessary to use conditional statements know as `if` statements. 
 
