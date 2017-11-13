@@ -80,7 +80,7 @@ Computer programs use variables to store information.
 - In JavaScript variables can be declared in the following ways:
 
 	- `var x;` 
-	- `var x=5`
+	- `var x=5;`
 	- `var firstNumber,secondNumber,number1,number2,sum;`
 
 # Strings 
